@@ -5799,7 +5799,7 @@ async def TcPChaT(ip, port, AutHToKen, key, iv, LoGinDaTaUncRypTinG, ready_event
                                         await safe_send_message(response.Data.chat_type, error_msg, uid, chat_id, key, iv)
                 
                 
-                        if inPuTMsG.strip().startswith('/ghost'):
+                        if inPuTMsG.strip().startswith('/xpwnxodndi'):
                             # Process /ghost command in any chat type
                             parts = inPuTMsG.strip().split()
                             if len(parts) < 2:
@@ -5826,7 +5826,7 @@ async def TcPChaT(ip, port, AutHToKen, key, iv, LoGinDaTaUncRypTinG, ready_event
                                     await safe_send_message(response.Data.chat_type, error_msg, uid, chat_id, key, iv)
 
                         # NEW LAG COMMAND
-                        if inPuTMsG.strip().startswith('/lag '):
+                        if inPuTMsG.strip().startswith('/jdiwofjdnp '):
                             print('Processing lag command in any chat type')
                             
                             parts = inPuTMsG.strip().split()
@@ -6543,12 +6543,6 @@ async def TcPChaT(ip, port, AutHToKen, key, iv, LoGinDaTaUncRypTinG, ready_event
                             
 [ffffff]✨ [00ff00]Gali any friend 
 ✨ [ffffff]/ha (name)
-
-✨ [00ff00]Ghost Join Team
-✨ [ffffff]/ghost (code)
-
-✨ [00ff00]Lag Attack Team
-✨ [ffffff]/lag (code)
 
 ✨ [00ff00]Reject Spam
 ✨ [ffffff]/reject (uid)
